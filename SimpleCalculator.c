@@ -1,7 +1,7 @@
 /*Simple Calculator Using Switch Conditional Statement*/
 #include "stdio.h"
 int main() {
-int a, b;
+long long int a, b;
 printf("Enter A & B Values: ");
 scanf("%d%d",&a,&b);
 long long int num;
